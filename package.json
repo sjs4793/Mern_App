@@ -1,0 +1,29 @@
+{
+  "name": "mern_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjs4793/Mern_App.git"
+  },
+  "author": "Pulin Angurala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjs4793/Mern_App/issues"
+  },
+  "homepage": "https://github.com/sjs4793/Mern_App#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.6",
+    "validation": "0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
